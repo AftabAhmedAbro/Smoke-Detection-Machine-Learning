@@ -1,1 +1,1 @@
-# Smoke-Detection-Machine-Learning
+# Smoke-Detection-For-IoT-Devices
